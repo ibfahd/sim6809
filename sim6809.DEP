@@ -1,0 +1,37 @@
+[Version]
+Version=1.0.0.0
+
+[sim6809.exe <000C>]
+Dest=$(AppPath)
+Date=03/08/03
+Time=13:23
+Version=1.0.0.0
+CABFilename=setup.CAB
+CABINFFile=setup.INF
+Uses1=MSVBVM60.DLL
+Uses2=OLEAUT32.DLL
+Uses3=OLEPRO32.DLL
+Uses4=ASYCFILT.DLL
+Uses5=Stdole2.tlb
+Uses6=COMCAT.DLL
+Uses7=VB6FR.DLL
+Uses8=MSDERUN.DLL
+Uses9=Dao2535.tlb
+Uses10=MSBIND.DLL
+Uses11=MSADO20.TLB
+Uses12=MSCOMCTL.OCX
+Uses13=DBGRID32.OCX
+Uses14=MSDATGRD.OCX
+Uses15=MSADODC.OCX
+Uses16=MSFLXGRD.OCX
+Uses17=COMDLG32.OCX
+Uses18=RICHTX32.OCX
+Uses19=code.mdb
+Uses20=newfile.md_
+Uses21=Help.pdf
+
+[MSADO20.TLB <000C>]
+Dest=$(WinSysPath)
+Date=30/10/98
+Time=11:32
+Version=0.0.0.0
