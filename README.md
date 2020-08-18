@@ -1,4 +1,14 @@
 # sim6809
+MOTOROLA CPU 6809 Operation Simulator
+
+An old end of study project dating from 2003, I don't really remember the details but what I do remember is that it works! the code is vb5 or vb6.
+an Access database contains Motorola assembly instructions (not all of them).
+
+Good luck to the curious !!!
+
+
+
+
 (PFE2003) - Simulateur du Fonctionement du CPU 6809 de MOTOROLA
 
 Simuler c’est déterminer à l'aide d'un simulateur et lors d'une simulation, les conséquences d'hypothèses, le fonctionnement d'un système, d'un appareil, de façon purement virtuelle.
